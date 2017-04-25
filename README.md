@@ -5,7 +5,7 @@ Android 进阶笔记
 --
 > * [技术框架](https://github.com/doublechina/AndroidNote#第一部分技术框架)
 >   * [图片加载](https://github.com/doublechina/AndroidNote#图片加载)
->   * [UI组件](https://github.com/doublechina/AndroidNote#UI组件)
+>   * [UI组件](https://github.com/doublechina/AndroidNote#组件)
 >   * [网络请求](https://github.com/doublechina/AndroidNote#网络请求)
 >   * [数据库ORM](https://github.com/doublechina/AndroidNote#数据库orm)
 >   * [Json解析](https://github.com/doublechina/AndroidNote#json解析)
@@ -49,7 +49,7 @@ Android 进阶笔记
 * [Picasso](http://square.github.io/picasso/)
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
-### UI组件
+### 组件
 * [litho](https://github.com/facebook/litho)
 
 ### 网络请求
