@@ -19,7 +19,7 @@ Android 进阶笔记
 >   * [图表](https://github.com/doublechina/AndroidNote#图表)
 >   * [响应式编程](https://github.com/doublechina/AndroidNote#响应式编程)
 >   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
->   * [Lambda](https://github.com/doublechina/AndroidNote#Lambda表达式)
+>   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第二部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
@@ -137,6 +137,7 @@ Android 进阶笔记
 * [Logger](https://github.com/orhanobut/logger)
 * [Timber](https://github.com/JakeWharton/timber)
 * [Logback-android](https://github.com/tony19/logback-android)
+
 ### Lambda表达式
 * [gradle-retrolambda](https://github.com/orhanobut/logger)
 
