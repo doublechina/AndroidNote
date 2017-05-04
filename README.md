@@ -43,10 +43,10 @@ Android 进阶笔记
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
 --
 ### 图片加载
-* [Glide](https://github.com/bumptech/glide)
-* [Fresco](http://fresco-cn.org/)
-* [Volley](https://android.googlesource.com/platform/frameworks/volley)
-* [Picasso](http://square.github.io/picasso/)
+* [Glide](https://github.com/bumptech/glide)-
+* [Fresco](http://fresco-cn.org/)-
+* [Volley](https://android.googlesource.com/platform/frameworks/volley)-
+* [Picasso](http://square.github.io/picasso/)-
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 ### 视图组件
@@ -64,6 +64,8 @@ Android 进阶笔记
 * [sugar](http://satyan.github.io/sugar/)
 * [realm](https://github.com/realm/realm-java)
 * [sqlbrite](https://github.com/square/sqlbrite)
+* [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
+
 
 ### Json解析
 * [gson](https://github.com/google/gson)
@@ -80,6 +82,7 @@ Android 进阶笔记
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
 * [RoboGuice](https://github.com/roboguice/roboguice)
 * [AndroidAnnotations](http://androidannotations.org/)
+* [dart](https://github.com/f2prateek/dart)
 
 ### 快速开发
 * [afinal](https://github.com/yangfuhai/afinal)
