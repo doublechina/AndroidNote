@@ -20,13 +20,15 @@ Android 进阶笔记
 >   * [响应式编程](https://github.com/doublechina/AndroidNote#响应式编程)
 >   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
 >   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
+> * [语言学习](https://github.com/doublechina/AndroidNote#第二部分语言学习)
+>   * [Kotlin(https://github.com/doublechina/AndroidNote#Kotlin)
 
-> * [博客社区](https://github.com/doublechina/AndroidNote#第二部分博客社区)
+> * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
 >   * [团队博客](https://github.com/doublechina/AndroidNote#团队博客)
 >   * [技术社区](https://github.com/doublechina/AndroidNote#技术社区)
 >   * [技术周报](https://github.com/doublechina/AndroidNote#技术周报)
-> * [技术书籍](https://github.com/doublechina/AndroidNote#第三部分技术书籍)
+> * [技术书籍](https://github.com/doublechina/AndroidNote#第四部分技术书籍)
 >   * [计算机基础](https://github.com/doublechina/AndroidNote#计算机基础)
 >   * [操作系统](https://github.com/doublechina/AndroidNote#操作系统)
 >   * [体系结构](https://github.com/doublechina/AndroidNote#体系结构)
@@ -45,10 +47,10 @@ Android 进阶笔记
 第一部分&nbsp;&nbsp;&nbsp;&nbsp;技术框架
 --
 ### 图片加载
-* [Glide](https://github.com/bumptech/glide)-
-* [Fresco](http://fresco-cn.org/)-
-* [Volley](https://android.googlesource.com/platform/frameworks/volley)-
-* [Picasso](http://square.github.io/picasso/)-
+* [Glide](https://github.com/bumptech/glide)
+* [Fresco](http://fresco-cn.org/)
+* [Volley](https://android.googlesource.com/platform/frameworks/volley)
+* [Picasso](http://square.github.io/picasso/)
 * [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 ### 视图组件
@@ -140,8 +142,12 @@ Android 进阶笔记
 
 ### Lambda表达式
 * [gradle-retrolambda](https://github.com/orhanobut/logger)
+第二部分&nbsp;&nbsp;&nbsp;&nbsp;编程语言
+--
+### Kotlin（Android中的Swift）
+* [Kotlin](https://github.com/JetBrains/kotlin)
 
-第二部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
+第三部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
 ### 个人博客
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
@@ -237,7 +243,7 @@ Android 进阶笔记
 * [Android博客周刊](http://androidblog.cn/)
 * [Android Weekly](http://androidweekly.net/)
 
-第三部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
+第四部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
 --
 
 ### 计算机基础
