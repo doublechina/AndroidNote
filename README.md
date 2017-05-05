@@ -23,7 +23,7 @@ Android 进阶笔记
 
 
 > * [编程语言](https://github.com/doublechina/AndroidNote#第二部分编程语言)
->   * [Kotlin](https://github.com/doublechina/AndroidNote#kotlin)
+>   * [编程语言Kotlin](https://github.com/doublechina/AndroidNote#编程语言kotlin)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
