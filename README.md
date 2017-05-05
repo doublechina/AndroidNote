@@ -18,12 +18,12 @@ Android 进阶笔记
 >   * [性能工具](https://github.com/doublechina/AndroidNote#性能工具)
 >   * [图表](https://github.com/doublechina/AndroidNote#图表)
 >   * [响应式编程](https://github.com/doublechina/AndroidNote#响应式编程)
->   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
+>   * [Lambda表达式](https://github.com/doublechina/AndroidNote#lambda表达式)
 >   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
 
 
 > * [编程语言](https://github.com/doublechina/AndroidNote#第二部分编程语言)
->   * [编程语言Kotlin](https://github.com/doublechina/AndroidNote#编程语言Kotlin)
+>   * [Kotlin](https://github.com/doublechina/AndroidNote#kotlin)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
