@@ -24,6 +24,11 @@ Android 进阶笔记
 
 > * [编程语言](https://github.com/doublechina/AndroidNote#第二部分编程语言)
 >   * [编程语言Kotlin](https://github.com/doublechina/AndroidNote#编程语言kotlin)
+>   * [go](https://github.com/doublechina/AndroidNote#go)
+>   * [Python](https://github.com/doublechina/AndroidNote#python)
+>   * [Ruby](https://github.com/doublechina/AndroidNote#ruby)
+>   * [PHP](https://github.com/doublechina/AndroidNote#php)
+>   * [C](https://github.com/doublechina/AndroidNote#c)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
@@ -152,6 +157,19 @@ Android 进阶笔记
 --
 ### 编程语言Kotlin
 * [Kotlin](https://github.com/JetBrains/kotlin)
+### go
+* [go语言](https://github.com/golang/go)
+### Python
+* [Python语言](https://www.python.org/)
+### Ruby
+* [Ruby语言](http://www.ruby-lang.org/zh_cn/)
+### PHP
+* [PHP语言](http://www.php.net/)
+### C
+* [C语言](https://github.com/jobbole/awesome-c-cn)
+
+
+
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
