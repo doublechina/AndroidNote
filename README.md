@@ -22,7 +22,7 @@ Android 进阶笔记
 >   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
 
 > * [编程语言](https://github.com/doublechina/AndroidNote#第二部分编程语言)
->   * [Kotlin](https://github.com/doublechina/AndroidNote#Kotlin)
+>   * [编程语言Kotlin](https://github.com/doublechina/AndroidNote#编程语言Kotlin)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
@@ -147,8 +147,8 @@ Android 进阶笔记
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;编程语言
 --
-### Kotlin（Android中的Swift）
-* [Kotlin](https://github.com/JetBrains/kotlin)
+### 编程语言Kotlin（Android中的Swift）
+* [编程语言Kotlin](https://github.com/JetBrains/kotlin)
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
