@@ -18,8 +18,9 @@ Android 进阶笔记
 >   * [性能工具](https://github.com/doublechina/AndroidNote#性能工具)
 >   * [图表](https://github.com/doublechina/AndroidNote#图表)
 >   * [响应式编程](https://github.com/doublechina/AndroidNote#响应式编程)
->   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
 >   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
+>   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
+
 
 > * [编程语言](https://github.com/doublechina/AndroidNote#第二部分编程语言)
 >   * [编程语言Kotlin](https://github.com/doublechina/AndroidNote#编程语言Kotlin)
@@ -137,13 +138,14 @@ Android 进阶笔记
 * [Agera](https://github.com/google/agera)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 
+### Lambda表达式
+* [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
+
 ### 日志框架
 * [Logger](https://github.com/orhanobut/logger)
 * [Timber](https://github.com/JakeWharton/timber)
 * [Logback-android](https://github.com/tony19/logback-android)
 
-### Lambda表达式
-* [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
 
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;编程语言
