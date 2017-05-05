@@ -1,7 +1,8 @@
 Android 进阶笔记
+
 ==
 
-大纲
+大纲(页面tag不支持大写)
 --
 > * [技术框架](https://github.com/doublechina/AndroidNote#第一部分技术框架)
 >   * [图片加载](https://github.com/doublechina/AndroidNote#图片加载)
