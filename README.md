@@ -143,12 +143,13 @@ Android 进阶笔记
 * [Logback-android](https://github.com/tony19/logback-android)
 
 ### Lambda表达式
-* [gradle-retrolambda](https://github.com/orhanobut/logger)
+* [gradle-retrolambda](https://github.com/evant/gradle-retrolambda)
+
 
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;编程语言
 --
-### 编程语言Kotlin（Android中的Swift）
-* [编程语言Kotlin](https://github.com/JetBrains/kotlin)
+### 编程语言Kotlin
+* [Kotlin](https://github.com/JetBrains/kotlin)
 
 第三部分&nbsp;&nbsp;&nbsp;&nbsp;博客社区
 --
