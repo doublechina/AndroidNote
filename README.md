@@ -21,7 +21,7 @@ Android 进阶笔记
 >   * [日志框架](https://github.com/doublechina/AndroidNote#日志框架)
 >   * [Lambda表达式](https://github.com/doublechina/AndroidNote#Lambda表达式)
 > * [语言学习](https://github.com/doublechina/AndroidNote#第二部分语言学习)
->   * [Kotlin(https://github.com/doublechina/AndroidNote#Kotlin)
+>   * [Kotlin](https://github.com/doublechina/AndroidNote#Kotlin)
 
 > * [博客社区](https://github.com/doublechina/AndroidNote#第三部分博客社区)
 >   * [个人博客](https://github.com/doublechina/AndroidNote#个人博客)
@@ -142,6 +142,7 @@ Android 进阶笔记
 
 ### Lambda表达式
 * [gradle-retrolambda](https://github.com/orhanobut/logger)
+
 第二部分&nbsp;&nbsp;&nbsp;&nbsp;编程语言
 --
 ### Kotlin（Android中的Swift）
